@@ -1,4 +1,5 @@
 # python3-saml changelog
+
 ### 1.14.0 (Feb 18, 2022)
 - [#297](https://github.com/onelogin/python3-saml/pull/297) Don't require yanked version of lxml.
 - [#298](https://github.com/onelogin/python3-saml/pull/298) Add support for python 3.10 and cleanup the GHA.
